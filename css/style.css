@@ -13,10 +13,13 @@ min-height:100%;
 }
 
 header{
+	/*
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../flower_2.jpg);
 	height: 100vh;
-	background-size: 10rem;
+	background-size: cover;
 	background-position: center;
+	*/
+	background : url(../flower_2.jpg) no-repeat center center fixed;
 }
 
 nav ul{
@@ -146,10 +149,13 @@ nav ul li ul li:hover ul li{
 @media(max-width: 998px){
 	html{
 		font-size: 55%;
+		background: url(../flower_2.jpg) no-repeat center center fixed;
 	}
+
 }
 @media(max-width: 768px){
 	html{
 		font-size: 45%;
+		background: url(../flower_2.jpg) no-repeat center center fixed;
 	}
 }

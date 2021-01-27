@@ -158,8 +158,3 @@ nav ul li ul li:hover ul li{
 		font-size: 55%;
 	}
 
-@media only screen and (min-height: 32rem) and (max-width: 48rem) {	
-	html{
-		background : url(../flower_2.jpg) no-repeat center center fixed;
-	}
-}

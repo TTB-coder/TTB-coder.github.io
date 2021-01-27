@@ -146,6 +146,7 @@ nav ul li ul li:hover ul li{
 
 }
 */
+/*
 @media(max-width: 998px){
 	html{
 		font-size: 55%;
@@ -157,7 +158,9 @@ nav ul li ul li:hover ul li{
 		font-size: 45%;
 	}
 }
+*/
 
 @media only screen and (min-height: 320px) and (max-width: 480px) {
-	background: url(../flower_2.jpg) no-repeat center center fixed;
+	
+	background : url(../flower_2.jpg) no-repeat center center fixed;
 	}
